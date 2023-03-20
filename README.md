@@ -1,1 +1,3 @@
-# semantic_role_labelling
+Competition
+Comparison Identification
+https://codalab.lisn.upsaclay.fr/competitions/531
